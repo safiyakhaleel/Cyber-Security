@@ -12,7 +12,18 @@
 - [ ]  Internet
 
 ## DAY 2: BROWSER
+  - [x] Working of Browser 
+  - [x] Headers
+  - [x] Cookies & Tokens
+  - [x] Cross-Origin Resource Sharing (CORS)
+  - [x] Same-origin policy (SOP)
+  - [x] Content Security Policy (CSP) 
+  
 ## DAY 3: PROGRAMMING
+  - [ ] HTML
+  - [ ] Java
+  - [ ] PHP
+ 
 ## DAY 4 : ENCODING
 ## DAY 5 : API
 ## DAY 6 : LINUX
